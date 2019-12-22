@@ -1,0 +1,33 @@
+.navbar {
+    background-color: #CCC;
+
+}
+
+.who-are {
+    background-color: blue;
+    color: white;
+}
+
+.partners {
+    background-color: thistle;
+}
+
+.services {
+    background-color: whitesmoke;
+
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
+.margin {
+    padding-bottom: 50px;
+}
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
