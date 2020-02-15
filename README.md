@@ -1,7 +1,7 @@
 <h1 align="center">Aula bootstrap</h1>
 
 <p align="center">
- <img alt="Repository size" src="https://img.shields.io/github/repo-size/luizeduul/homepage-moveis-gatsby">
+ <img alt="Repository size" src="https://img.shields.io/github/repo-size/luizeduul/Aula-Bootstrap">
  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
