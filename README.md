@@ -10,7 +10,7 @@
 [Cadastre-se na DIO](https://digitalinnovation.one/sign-up?ref=HWGACA2EVC) é grátis e tem muito conteúdo bacana.
       
 ## Como utilizar 
-<p>Faça um clone desse projeto em sua máquina</p><br>
+<p>Faça um clone desse projeto em sua máquina</p>
 <p>Apenas demonstrativo e para testes</p>
   
 ## Tecnologias
